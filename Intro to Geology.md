@@ -2,7 +2,9 @@
 ![](images/earthquakes.jpg)
 
 <center>
-<h2> Contact Information </h2>
+<h2> Contact Information </h2> </center>
+<center>
+
 --- | --- 
 **Instructor:** Dr. John Van Hoesen | **Lecture**: M, Tr (4:00-5:15)
 **Office**: Richardson 109 | **Lab**: F (1:00-5:00)
