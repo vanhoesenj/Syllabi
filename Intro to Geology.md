@@ -87,8 +87,8 @@ If you have a specific learning, physical, or psychiatric disability and require
 ## <center>Course Schedule
 This schedule is only a road map and designed to be dynamic.  However, I will try to provide as much notice as possible prior to any changes in the schedule.  Note that the letter M refers to papers available on the Moodle Course Folder.
 
---- | --- 
-<center>**Date** | <center>**Topic** | <center>**Reading(s)**
+--- | --- | ---
+**Date** | **Topic** | **Reading(s)**
 Sep. 06 <br> Sep. 09 <br> Sep. 12 | **Lab 1**: Haystack Mountain <br> Logistics and Introduction<br> Introduction to Geology | <center>*Handouts* <br> <center>*N/A* <br> Chapter 1 + **M** (Language of Geology & Major Prize) 
 Sep. 16 <br> Sep. 19 <br> Sep. 20 | Introduction to Plate Tectonics <br> Atomic Structure & Minerals <br> **Lab 2**: Slate Valley Museum | Chapter 3 + **M** (Confirmation of Continental Drift) <br> Chapter 4 <br> <center>*Handouts*
 Sep. 23 <br> Sep. 26 | Silicate and Non-silicate Minerals <br> Rock Cycle & Metamorphic Rocks | Chapter 3 + **M** 90-92 (very important) <br> 216-234
