@@ -128,3 +128,8 @@ These are some general guidelines that will help you succeed in this class:
 
 ## Copyright and license
 Copyright 2013 [John Van Hoesen](mailto:vanhoesenj@greenmtn.edu)
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1<br>2 | 2 | 3
