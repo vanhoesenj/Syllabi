@@ -89,7 +89,8 @@ This schedule is only a road map and designed to be dynamic.  However, I will tr
 
 --- | --- | ---
 **Date** | **Topic** | **Reading(s)**
-Sep. 06 <br> Sep. 09 <br> Sep. 12 | **Lab 1**: Haystack Mountain <br> Logistics and Introduction<br> Introduction to Geology | <center>*Handouts* <br> <center>*N/A* <br> Chapter 1 + **M** (Language of Geology & Major Prize) 
+Sep. 06 <br> Sep. 09 <br> Sep. 12 | **Lab 1**: Haystack Mountain <br> Logistics and Introduction<br> Introduction to Geology | <center>*Handouts* <br> <center>*N/A* <br> Chapter 1 + **M** (Language of Geology & Major Prize)
+ 
 Sep. 16 <br> Sep. 19 <br> Sep. 20 | Introduction to Plate Tectonics <br> Atomic Structure & Minerals <br> **Lab 2**: Slate Valley Museum | Chapter 3 + **M** (Confirmation of Continental Drift) <br> Chapter 4 <br> <center>*Handouts*
 Sep. 23 <br> Sep. 26 | Silicate and Non-silicate Minerals <br> Rock Cycle & Metamorphic Rocks | Chapter 3 + **M** 90-92 (very important) <br> 216-234
 Sep. 30 <br> Oct. 03 <br> Oct. 04 | Metamorphic Rocks <br> <center>**Exam 1** </center> **Lab 2**: Slate Valley Museum | **M** (Building Stones – Marble & Slate) <br> <center>**Study Hard!** </center> <center>*Handouts*
