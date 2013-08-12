@@ -6,10 +6,10 @@
 
 <h2> Contact Information </h2> </center>
 
---- | --- |
-**Instructor**: Dr. John Van Hoesen | **Email**: [vanhoesenj@greenmtn.edu](mailto:vanhoesenj@greenmtn.edu)
-**Lecture**: M, Tr (4:00-5:15) | **Lab**: Alternate Fr (1:00-5:00)
-**Office**: Richardson 109 | **Phone**: 287-8387
+| --- | --- |
+|**Instructor**: Dr. John Van Hoesen | **Email**: [vanhoesenj@greenmtn.edu](mailto:vanhoesenj@greenmtn.edu)|
+|**Lecture**: M, Tr (4:00-5:15) | **Lab**: Alternate Fr (1:00-5:00)|
+|**Office**: Richardson 109 | **Phone**: 287-8387|
 
 ## Course Description
 This course focuses on the Earth’s composition, structure, and systems.  We will investigate the processes at work within the Earth as well as surface processes that shape the Earth’s surface.  We will examine how geologic phenomena are linked together through dynamic systems and how they impact our environment, society and economy.  Topics of discussion will include but are not limited to: rocks and minerals, earthquakes, the oceans, the atmosphere, weathering, groundwater, glaciers, volcanoes and plate tectonics (not necessarily in that order).
