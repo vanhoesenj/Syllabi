@@ -83,11 +83,11 @@ If you are caught cheating or plagiarizing (as outlined in the [*College Catalog
 
 If you have a specific learning, physical, or psychiatric disability and require accommodations, please let me know early in the semester so that your learning needs may be appropriately met.  The Calhoun Learning Center is the office responsible for coordinating accommodations for students and is located on the 3rd floor of Griswold Library.  If you have questions, please contact Christina Fabrey, Coordinator of Accommodations, at x8234.
 
-<br>
+
 ## <center>Course Schedule
 This schedule is only a road map and designed to be dynamic.  However, I will try to provide as much notice as possible prior to any changes in the schedule.  Note that the letter M refers to papers available on the Moodle Course Folder.
 
---- | --- | ---
+--- | --- 
 <center>**Date** | <center>**Topic** | <center>**Reading(s)**
 Sep. 06 <br> Sep. 09 <br> Sep. 12 | **Lab 1**: Haystack Mountain <br> Logistics and Introduction<br> Introduction to Geology | <center>*Handouts* <br> <center>*N/A* <br> Chapter 1 + **M** (Language of Geology & Major Prize) 
 Sep. 16 <br> Sep. 19 <br> Sep. 20 | Introduction to Plate Tectonics <br> Atomic Structure & Minerals <br> **Lab 2**: Slate Valley Museum | Chapter 3 + **M** (Confirmation of Continental Drift) <br> Chapter 4 <br> <center>*Handouts*
