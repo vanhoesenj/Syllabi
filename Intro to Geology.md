@@ -5,10 +5,11 @@
 <h2> Contact Information </h2> </center>
 <center>
 
+ | 
 --- | --- |
 **Instructor**: Dr. John Van Hoesen | **Lecture**: M, Tr (4:00-5:15)
 **Office**: Richardson 109 | **Lab**: Alternate Fr (1:00-5:00)
-**Email**: vanhoesenj@greenmtn.edu | **Phone**: 287-8387
+**Email**: [vanhoesenj@greenmtn.edu](mailto:vanhoesenj@greenmtn.edu) | **Phone**: 287-8387
 
 </center>
 
