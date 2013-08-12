@@ -41,14 +41,14 @@ I will provide explicit instructions and expectations with each laboratory exerc
 Your grade will be assessed using three hour-long examinations, a final exam, slide discussions, homework assignments, two short research papers, and laboratory exercises.  Exams will include objective and essay type questions and I will provide samples prior to each exam.  Although I don’t require attendance, we will complete exercises in class and if you fail to attend class or arrive late you will not be allowed to make-up these assignments.  You are required to complete the assigned readings prior to class and must complete assignments on time for credit.  Notice that the majority of emphasis is placed on applied skills derived from courses content (e.g. – labs are worth more than exams); I do this intentionally because I want you to become comfortable USING information from this class and not just memorizing for exams.     
 
 --- | ---  
-Exam 1 - (Thursday, October 03) |	10% 
-Exam 2 - (Thursday, November 07) |	10%
-Exam 3 – (Tuesday, December 16) |	10%
+Exam 1 - (Thursday, October 03) | 10% 
+Exam 2 - (Thursday, November 07) | 10%
+Exam 3 – (Tuesday, December 16) | 10%
 Homework | 10%
 Slide Discussions | 20%
 Laboratory Exercises | 30%
 Short Research Papers | 20%
-Final Exam – (Wednesday, December 18 @ 3:30 AM) |	10%
+Final Exam – (Wednesday, December 18 @ 3:30 AM) | 10%
 
 Letter grades will be assigned using the following grading scale: A (> 92%), A- (90-91%), B+ (88-89), B (82-87%), B- (80-81%), C+ (78-79%), C (72-77%), C- (70-71%), D+ (68-69%), D (62-69%), D- (60-61), and F <60%).
 
