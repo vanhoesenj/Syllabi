@@ -1,6 +1,15 @@
 # <center>Introduction to Physical Geology: (Fall 2013)
 ![](images/earthquakes.jpg)
 
+<center>
+
+<H1> Contact Information |
+--- | --- 
+**Instructor:** Dr. John Van Hoesen | **Lecture**: M, Tr (4:00-5:15)
+**Office**: Richardson 109 | **Lab**: F (1:00-5:00)
+**E-mail**: vanhoesenj@greenmtn.edu | **Phone**: 287-8387 
+</center>
+
 ## Course Description
 This course focuses on the Earth’s composition, structure, and systems.  We will investigate the processes at work within the Earth as well as surface processes that shape the Earth’s surface.  We will examine how geologic phenomena are linked together through dynamic systems and how they impact our environment, society and economy.  Topics of discussion will include but are not limited to: rocks and minerals, earthquakes, the oceans, the atmosphere, weathering, groundwater, glaciers, volcanoes and plate tectonics (not necessarily in that order).
 
