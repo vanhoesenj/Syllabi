@@ -5,7 +5,7 @@
 ![](images/earthquakes.jpg)
 
 <h2> Contact Information </h2>
-|
+-| -
 ---|---|
 **Instructor**: Dr. John Van Hoesen | **Email**: [vanhoesenj@greenmtn.edu](mailto:vanhoesenj@greenmtn.edu) 
 **Lecture**: M, Tr (4:00-5:15) | **Lab**: Alternate Fr (1:00-5:00)
