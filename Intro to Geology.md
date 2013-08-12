@@ -131,5 +131,5 @@ Copyright 2013 [John Van Hoesen](mailto:vanhoesenj@greenmtn.edu)
 
 <center>**Date**</center> | <center>**Topic**</center> | <center>**Reading(s)**</center>
 --- | --- | ---
-*Still* | `renders` | **nicely**
+Sep. 06<br>Sep. 09<br>Sep. 12 | **Lab 1**: Haystack Mountain<br>Logistics and Introduction <br> Introduction to Geology | <center>*Handouts*<br><center>*N/A*<br>Chapter 1 + **M** (Language of Geology & Major Prize)
 1<br>2 | 2 | 3
