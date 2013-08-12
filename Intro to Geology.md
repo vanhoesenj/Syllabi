@@ -1,5 +1,6 @@
 # <center>Introduction to Physical Geology: (Fall 2013)
-> <center>Every great scientific truth goes through three states: first, people say it conflicts with the Bible; next, they say it has been discovered before; lastly, they say they always believed it. - Louis Agassiz </center> 
+<center>*Every great scientific truth goes through three states: first, people say it conflicts with the Bible; next, they say it has been discovered before; lastly, they say they always believed it*.<br>Louis Agassiz </center> 
+
 
 ![](images/earthquakes.jpg)
 
