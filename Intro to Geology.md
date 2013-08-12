@@ -1,15 +1,17 @@
 # <center>Introduction to Physical Geology: (Fall 2013)
+<center>
+> Every great scientific truth goes through three states: first, people say it conflicts with the Bible; next, they say it has been discovered before; lastly, they say they always believed it. - Louis Agassiz </center> 
+
 ![](images/earthquakes.jpg)
 
 
 <h2> Contact Information </h2> </center>
 <center>
 
- | 
 --- | --- |
-**Instructor**: Dr. John Van Hoesen | **Lecture**: M, Tr (4:00-5:15)
-**Office**: Richardson 109 | **Lab**: Alternate Fr (1:00-5:00)
-**Email**: [vanhoesenj@greenmtn.edu](mailto:vanhoesenj@greenmtn.edu) | **Phone**: 287-8387
+**Instructor**: Dr. John Van Hoesen | **Email**: [vanhoesenj@greenmtn.edu](mailto:vanhoesenj@greenmtn.edu)
+**Lecture**: M, Tr (4:00-5:15) | **Lab**: Alternate Fr (1:00-5:00)
+**Office**: Richardson 109 | **Phone**: 287-8387
 
 </center>
 
