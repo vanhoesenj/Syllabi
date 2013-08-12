@@ -88,9 +88,8 @@ If you have a specific learning, physical, or psychiatric disability and require
 This schedule is only a road map and designed to be dynamic.  However, I will try to provide as much notice as possible prior to any changes in the schedule.  Note that the letter M refers to papers available on the Moodle Course Folder.
 
 --- | --- | ---
-**Date** | **Topic** | **Reading(s)**
-Sep. 06 <br> Sep. 09 <br> Sep. 12 | **Lab 1**: Haystack Mountain <br> Logistics and Introduction<br> Introduction to Geology | <center>*Handouts* <br> <center>*N/A* <br> Chapter 1 + **M** (Language of Geology & Major Prize)
- 
+<center>**Date** | <center>**Topic** | <center>**Reading(s)**
+Sep. 06  Sep. 09  Sep. 12 | **Lab 1**: Haystack Mountain  Logistics and Introduction Introduction to Geology | <center>*Handouts*  <center>*N/A* Chapter 1 + **M** (Language of Geology & Major Prize) 
 Sep. 16 <br> Sep. 19 <br> Sep. 20 | Introduction to Plate Tectonics <br> Atomic Structure & Minerals <br> **Lab 2**: Slate Valley Museum | Chapter 3 + **M** (Confirmation of Continental Drift) <br> Chapter 4 <br> <center>*Handouts*
 Sep. 23 <br> Sep. 26 | Silicate and Non-silicate Minerals <br> Rock Cycle & Metamorphic Rocks | Chapter 3 + **M** 90-92 (very important) <br> 216-234
 Sep. 30 <br> Oct. 03 <br> Oct. 04 | Metamorphic Rocks <br> <center>**Exam 1** </center> **Lab 2**: Slate Valley Museum | **M** (Building Stones – Marble & Slate) <br> <center>**Study Hard!** </center> <center>*Handouts*
@@ -105,7 +104,7 @@ Nov. 25 <br> Nov. 28 | Earthquakes (cont) <br> Thanksgiving Break | **M** [Earth
 Dec. 02 <br> Dec. 05 <br> Dec. 06 | Earth's Interior <br> Plate Tectonics (revisited) <br> **Lab 6**: Making a Geologic Map | Chapter 11 <br> Chapter 10 <br> <center>*Handouts*	
 Dec. 09 <br> Dec. 12 | Energy Resources <br> Mineral Resources | **M** (Rocks of the Northeastern US a Review) <br> **M** (Letters from Volcanoes)	
 Dec. 16 <br> Dec. 17 | <center>**Exam 3**<br> <center>**Discussion and Review** | <center>**Study Hard!**<br> n/a	
-Dec. ##  | <center>**Final Exam** | <center>**Study Hard!**</center>	
+Dec. 18  | <center>**Final Exam** | <center>**Study Hard!**</center>	
 
 
 ## Guidelines for Success
