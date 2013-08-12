@@ -127,11 +127,3 @@ These are some general guidelines that will help you succeed in this class:
 4. Complete and hand your work in on time
 5. Learn to ‘play well with others’. Group work is essential for developing good communication and listening skills
 6. Become an active participant in the learning process.  This means you need to actively study, take notes, ask questions and develop your own questions.
-
-
-## Author
-
-**John Van Hoesen**
-
-[http://twitter.com/taconic_musings](http://twitter.com/taconic_musings)<br>
-[http://github.com/vanhoesenj](http://github.com/vanhoesenj)
