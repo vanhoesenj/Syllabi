@@ -134,4 +134,15 @@ Copyright 2013 [John Van Hoesen](mailto:vanhoesenj@greenmtn.edu)
 Sep. 06<br>Sep. 09<br>Sep. 12 | **Lab 1**: Haystack Mountain<br>Logistics and Introduction <br> Introduction to Geology | <center>*Handouts*<br><center>*N/A*<br>Chapter 1 + **M** (Language of Geology & Major Prize)
 Sep. 16 <br> Sep. 19 <br> Sep. 20  | Introduction to Plate Tectonics <br> Atomic Structure & Minerals <br> **Lab 2**: Slate Valley Museum | Chapter 3 + **M** (Confirmation of Continental Drift) <br> Chapter 4 <br> <center>*Handouts
 Sep. 23 <br> Sep. 26 | Silicate and Non-silicate Minerals <br> Rock Cycle & Metamorphic Rocks | Chapter 3 + **M** 90-92 (very important) <br> 216-234
-Sep. 16 <br> Sep. 19 <br> Sep. 20 | Metamorphic Rocks <br> <center>**Exam 1** </center> **Lab 2**: Slate Valley Museum | **M** (Building Stones – Marble & Slate) <br> <center>**Study Hard!** <br>*Handouts*
+Sep. 30 <br> Oct. 03 <br> Oct. 04 | Metamorphic Rocks <br> <center>**Exam 1** </center> **Lab 2**: Slate Valley Museum | **M** (Building Stones – Marble & Slate) <br> <center>**Study Hard!** <br>*Handouts*
+Oct. 07 <br> Oct. 10 | Intrusive vs. Extrusive rocks <br> Igneous Activity | <center>*n/a*</center> **M** (Letters from Volcanoes) <br> <center>*Handouts*
+Oct. 21 <br> Oct. 24 | Sediments & Sedimentary Rocks <br> Sediments & Sedimentary Rocks (cont)| 188-204 + **M** (Rocks of the Northeastern US a Review) <br> 172-88 + **M** (Buildings Stones – Limestone)
+Oct. 28 <br> Oct. 31 <br> Nov. 01 | No Class – Movie Assignment <br> Geologic Time <br> **Lab 4**: Rock Identification Field Trip | Watch [Haimaey Movie](http://youtu.be/qErubFs1fs8) on YouTube <br> Chapter 9 + **M** (Fall in House of Usher, Discovery of Time) <br> <center>*Handouts*
+Nov. 04 <br> Nov. 07 | Reading the Rock Record <br> <center>**Exam 2**</center> | **M** (Rocks of the Northeastern US a Review) <br> <center>**Study Hard!**</center>
+Nov. 11 <br> Nov. 14 <br> Nov. 15| Geologic Structures <br> No Class - Movie Assignment <br> **Lab 5**: Geologic History | **M** (Rocks of the Northeastern US a Review) <br> Watch [Roof of The World](http://youtu.be/r87-HaAoOkU) on YouTube
+Nov. 18 <br> Nov. 21 | Mountain Building (cont) <br> Earthquakes | **M** (Geologic History of the Northeastern United States) <br> Chapter 12
+Nov. 25 <br> Nov. 28 | Earthquakes (cont) <br> Thanksgiving Break | **M** [Earthquakes in and Near the Northeastern US](http://pubs.usgs.gov/fs/fs-0006-01/fs-0006-01.pdf) <br> <center>**Enjoy your break!**</center>
+Dec. 02 <br> Dec. 05 <br> Dec. 06 | Earth's Interior <br> Plate Tectonics (revisited) <br> **Lab 6**: Making a Geologic Map | Chapter 11 <br> Chapter 10 <br> <center>*Handouts*
+Dec. 09 <br> Dec. 12 | Energy Resources <br> Mineral Resources | **M** (Rocks of the Northeastern US a Review) <br> **M** (Letters from Volcanoes)
+Dec. 16 <br> Dec. 17 | <center>**Exam 3**<br><center>**Discussion and Review** | <center>**Study Hard!**<br> n/a
+Dec. 18  | <center>**Final Exam** | <center>**Study Hard!**</center>
