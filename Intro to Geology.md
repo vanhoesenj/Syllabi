@@ -58,7 +58,7 @@ Exam 3 – (Tuesday, December 16) | 10%
 Laboratory Exercises | 30% 
 Short Research Papers | 20% 
 Slide Discussions | 20%
-Homework | 10$
+Homework | 10%
 Final Exam – (Wednesday, December 18 @ 3:30 AM) | 10%
 
 Letter grades will be assigned using the following grading scale: A (> 92%), A- (90-91%), B+ (88-89), B (82-87%), B- (80-81%), C+ (78-79%), C (72-77%), C- (70-71%), D+ (68-69%), D (62-69%), D- (60-61), and F <60%).
