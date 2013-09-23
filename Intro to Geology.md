@@ -102,7 +102,7 @@ This schedule is only a road map and designed to be dynamic.  However, I will tr
 --- | --- | ---
 Sep. 06<br>Sep. 09<br>Sep. 12 | **Lab 1**: Haystack Mountain<br>Logistics and Introduction <br> Introduction to Geology | <center>*Handouts*<br><center>*N/A*<br>Chapter 1 + **M** (Language of Geology & Major Prize)
 Sep. 16 <br> Sep. 19 <br> Sep. 20  | Introduction to Plate Tectonics <br> Atomic Structure & Minerals <br> **Lab 2**: Slate Valley Museum | Chapter 3 + **M** (Confirmation of Continental Drift) <br> Chapter 4 <br> <center>*Handouts
-Sep. 23 <br> Sep. 26 | Silicate and Non-silicate Minerals <br> Rock Cycle & Metamorphic Rocks | **M** 88-93 (very important) <br> Chapter 8
+Sep. 23 <br> Sep. 26 | Silicate and Non-silicate Minerals <br> Rock Cycle & Metamorphic Rocks | 88-93 (very important) <br> Chapter 8
 Sep. 30 <br> Oct. 03 <br> Oct. 04 | Metamorphic Rocks <br> <center>**Exam 1**<br></center> **Lab 3**: Rocks & Minerals | **M** (Building Stones – Marble & Slate) <br> <center>**Study Hard!** <br>*Handouts*
 Oct. 07 <br> Oct. 10 | Intrusive vs. Extrusive rocks <br> Igneous Activity | Chapter 5 <br> **M** (Letters from Volcanoes) <br> 
 Oct. 21 <br> Oct. 24 | Sediments & Sedimentary Rocks <br> Sediments & Sedimentary Rocks (cont)| 170-186 + **M** (Rocks of the Northeastern US a Review) <br> 186-203 + **M** (Buildings Stones – Limestone)
